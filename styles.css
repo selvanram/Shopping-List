@@ -1,0 +1,55 @@
+html {
+	background-color: #DBDBFF;
+}
+
+#title {
+	font-family: 'Ropa Sans', sans-serif;
+	padding: 15px;
+}
+
+#listArea {
+	background-color: #D6CA99;
+	width: 400px;
+	border-radius: 15%;
+	text-align: center;
+	margin: auto;
+	margin-top: 5%;
+}
+
+#text{
+	width: 300px;
+	border-radius: 5%;
+}
+
+#textArea {
+	width: 200px;
+}
+
+.items{
+	font-size: 20px;
+	text-align: left;
+	list-style-type: none;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+
+#box {
+	margin-right: 30px;
+}
+
+#button {
+	margin-left: 30px;
+}
+
+.actualItem {
+	text-decoration: none;
+	font-family: 'Ropa Sans', sans-serif;
+	font-size: 20px;
+}
+
+
+
+.checked {
+	margin-right: 30px;
+	text-decoration: line-through;
+}
